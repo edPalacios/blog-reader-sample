@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\BlogReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\BlogReader\app\build\intermediates\pre-dexed\debug\classes-06e6cda40cc617ca7f7d1292cd492e296a5e5801.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\BlogReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\BlogReader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-70e5a0cf66c1a4daa3edc4d9ac70e6f1b652d668.jar" />
+    </item>
+    <item
+        jar="C:\Users\Eduardo\Android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Eduardo\AndroidStudioProjects\Coursera\First-Course\BlogReader\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-e13677ec289ab2e2f3838ea59f758a04762f99d6.jar" />
+    </item>
+
+</items>
